@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.3.3 (23418 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="42.3603300" minlon="-71.0628200" maxlat="42.3610100" maxlon="-71.0618000"/>
+ <node id="325419559" visible="true" version="1" changeset="727062" timestamp="2009-01-04T06:19:36Z" user="crschmidt" uid="1034" lat="42.3603166" lon="-71.0625706"/>
+ <node id="325881527" visible="true" version="1" changeset="729168" timestamp="2009-01-04T17:14:10Z" user="crschmidt" uid="1034" lat="42.3606809" lon="-71.0616221"/>
+ <node id="325951705" visible="true" version="1" changeset="729168" timestamp="2009-01-04T18:29:22Z" user="crschmidt" uid="1034" lat="42.3606637" lon="-71.0625819"/>
+ <node id="325983406" visible="true" version="2" changeset="18201319" timestamp="2013-10-05T21:26:37Z" user="mapper999" uid="165061" lat="42.3603348" lon="-71.0616107"/>
+ <node id="367780818" visible="true" version="2" changeset="8442272" timestamp="2011-06-14T21:41:10Z" user="JessAk71" uid="381909" lat="42.3605656" lon="-71.0621827">
+  <tag k="addr:state" v="MA"/>
+  <tag k="building" v="yes"/>
+  <tag k="ele" v="11"/>
+  <tag k="gnis:county_name" v="Suffolk"/>
+  <tag k="gnis:feature_id" v="600090"/>
+  <tag k="gnis:import_uuid" v="57871b70-0100-4405-bb30-88b2e001a944"/>
+  <tag k="gnis:reviewed" v="no"/>
+  <tag k="name" v="Saltonstall State Office Building"/>
+  <tag k="source" v="USGS Geonames"/>
+ </node>
+ <node id="1153869587" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:13Z" user="JessAk71" uid="381909" lat="42.3609303" lon="-71.0627137"/>
+ <node id="1153869591" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:13Z" user="JessAk71" uid="381909" lat="42.3609540" lon="-71.0627352"/>
+ <node id="1153869606" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:13Z" user="JessAk71" uid="381909" lat="42.3602802" lon="-71.0624884"/>
+ <node id="1153869607" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:13Z" user="JessAk71" uid="381909" lat="42.3610730" lon="-71.0626333"/>
+ <node id="1153869634" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:14Z" user="JessAk71" uid="381909" lat="42.3609897" lon="-71.0627352"/>
+ <node id="1153869635" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:14Z" user="JessAk71" uid="381909" lat="42.3602802" lon="-71.0624294"/>
+ <node id="1153869639" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:14Z" user="JessAk71" uid="381909" lat="42.3603357" lon="-71.0615660"/>
+ <node id="1153869642" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:14Z" user="JessAk71" uid="381909" lat="42.3610254" lon="-71.0627245"/>
+ <node id="1153869659" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:14Z" user="JessAk71" uid="381909" lat="42.3600305" lon="-71.0624241"/>
+ <node id="1153869661" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:14Z" user="JessAk71" uid="381909" lat="42.3610769" lon="-71.0625743"/>
+ <node id="1153869665" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:14Z" user="JessAk71" uid="381909" lat="42.3610175" lon="-71.0622205"/>
+ <node id="1153869705" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:15Z" user="JessAk71" uid="381909" lat="42.3600265" lon="-71.0627137"/>
+ <node id="1153869713" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:15Z" user="JessAk71" uid="381909" lat="42.3609818" lon="-71.0620327"/>
+ <node id="1153869731" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:15Z" user="JessAk71" uid="381909" lat="42.3610611" lon="-71.0626869"/>
+ <node id="1153869737" visible="true" version="1" changeset="7291289" timestamp="2011-02-15T01:12:16Z" user="JessAk71" uid="381909" lat="42.3608034" lon="-71.0614802"/>
+ <node id="1153869711" visible="true" version="2" changeset="18201319" timestamp="2013-10-05T21:26:37Z" user="mapper999" uid="165061" lat="42.3603249" lon="-71.0621363"/>
+ <node id="2482861066" visible="true" version="1" changeset="18174334" timestamp="2013-10-04T20:37:13Z" user="mapper999" uid="165061" lat="42.3603584" lon="-71.0624332"/>
+ <node id="2482861067" visible="true" version="1" changeset="18174334" timestamp="2013-10-04T20:37:14Z" user="mapper999" uid="165061" lat="42.3603715" lon="-71.0616998"/>
+ <node id="2482861068" visible="true" version="1" changeset="18174334" timestamp="2013-10-04T20:37:14Z" user="mapper999" uid="165061" lat="42.3606094" lon="-71.0624414"/>
+ <node id="2482861069" visible="true" version="1" changeset="18174334" timestamp="2013-10-04T20:37:14Z" user="mapper999" uid="165061" lat="42.3606226" lon="-71.0617080"/>
+ <node id="1153869741" visible="true" version="2" changeset="18201319" timestamp="2013-10-05T21:26:37Z" user="mapper999" uid="165061" lat="42.3603178" lon="-71.0625064"/>
+ <node id="2708166015" visible="true" version="1" changeset="20999368" timestamp="2014-03-09T05:07:29Z" user="kalanz" uid="1962640" lat="42.3609810" lon="-71.0626238">
+  <tag k="addr:city" v="Boston"/>
+  <tag k="addr:housenumber" v="100"/>
+  <tag k="addr:postcode" v="02114"/>
+  <tag k="addr:street" v="Cambridge Street"/>
+  <tag k="amenity" v="pharmacy"/>
+  <tag k="name" v="Rite Aid"/>
+  <tag k="opening_hours" v="Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 09:00-18:00"/>
+ </node>
+ <way id="29611612" visible="true" version="8" changeset="18174334" timestamp="2013-10-04T20:37:15Z" user="mapper999" uid="165061">
+  <nd ref="325419559"/>
+  <nd ref="325951705"/>
+  <nd ref="325881527"/>
+  <nd ref="325983406"/>
+  <nd ref="1153869711"/>
+  <nd ref="1153869741"/>
+  <nd ref="325419559"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:colour" v="#EEEEDD"/>
+  <tag k="building:height" v="121m"/>
+  <tag k="fixme" v="height and levels estimated"/>
+  <tag k="name" v="Leverett Saltonstall State Office Building"/>
+  <tag k="roof:material" v="concrete"/>
+  <tag k="roof:shape" v="flat"/>
+ </way>
+ <way id="99809126" visible="true" version="2" changeset="18174334" timestamp="2013-10-04T20:51:04Z" user="mapper999" uid="165061">
+  <nd ref="1153869737"/>
+  <nd ref="1153869713"/>
+  <nd ref="1153869665"/>
+  <nd ref="1153869661"/>
+  <nd ref="1153869607"/>
+  <nd ref="1153869731"/>
+  <nd ref="1153869642"/>
+  <nd ref="1153869634"/>
+  <nd ref="1153869591"/>
+  <nd ref="1153869587"/>
+  <nd ref="1153869705"/>
+  <nd ref="1153869659"/>
+  <nd ref="1153869635"/>
+  <nd ref="1153869606"/>
+  <nd ref="1153869741"/>
+  <nd ref="325419559"/>
+  <nd ref="325951705"/>
+  <nd ref="325881527"/>
+  <nd ref="325983406"/>
+  <nd ref="1153869639"/>
+  <nd ref="1153869737"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+  <tag k="building:material" v="brick"/>
+  <tag k="source" v="bing"/>
+ </way>
+ <way id="240553615" visible="true" version="1" changeset="18174334" timestamp="2013-10-04T20:37:14Z" user="mapper999" uid="165061">
+  <nd ref="2482861069"/>
+  <nd ref="2482861067"/>
+  <nd ref="2482861066"/>
+  <nd ref="2482861068"/>
+  <nd ref="2482861069"/>
+  <tag k="building:levels" v="26"/>
+  <tag k="building:part" v="yes"/>
+ </way>
+ <way id="240553618" visible="true" version="2" changeset="18201319" timestamp="2013-10-05T21:26:37Z" user="mapper999" uid="165061">
+  <nd ref="325881527"/>
+  <nd ref="325983406"/>
+  <nd ref="1153869711"/>
+  <nd ref="1153869741"/>
+  <nd ref="325419559"/>
+  <nd ref="325951705"/>
+  <nd ref="325881527"/>
+  <tag k="building:levels" v="23"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="105"/>
+ </way>
+</osm>
